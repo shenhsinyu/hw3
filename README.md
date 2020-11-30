@@ -35,4 +35,4 @@ my_custom_dataset = dataset_base.copy({
 - run `python3 eval.py` to get image with mask and bounding box on detected item.
 - you can choose weight, score_threshold, number of item.
 - add the test images to `data/test_images` and output will in `data/output'/
-- example:
+- example: https://github.com/shenhsinyu/hw3/blob/main/2007_002823.png
