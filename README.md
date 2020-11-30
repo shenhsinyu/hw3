@@ -41,3 +41,6 @@ my_custom_dataset = dataset_base.copy({
 - example:
 
   ![image](https://github.com/shenhsinyu/hw3/blob/main/2007_002823.png)
+  
+## reference
+- https://github.com/dbolya/yolact
