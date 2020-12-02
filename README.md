@@ -44,7 +44,7 @@ my_custom_dataset = dataset_base.copy({
 - you will get output images and one json file.
 
 ## json file
-- run `python3 json.py` it can turn the original json file into coco style format.
+- run `python3 tococojson.py` it can turn the original json file into coco style format.
 
 ## reference
 - https://github.com/dbolya/yolact
