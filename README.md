@@ -33,6 +33,7 @@ my_custom_dataset = dataset_base.copy({
 - add `--parser.add_argument('--config', defalut=yolact_base_config)`
 - you can choose learning rate for SGD, batchsize, epoch...
 - run `python3 train.py` to train your model.
+- download yolact_base_config from this link https://drive.google.com/file/d/1wZEGgzN6rVvD1sDG47hNnz2S9kmwVxuR/view?usp=sharing
 
 ## eval
 - run `python3 eval.py` to get image with mask and bounding box on detected item.
